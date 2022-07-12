@@ -9,5 +9,4 @@ int _print_int(va_list args);
 int _print_str(va_list args);
 int (*_selec_func(char c))(va_list);
 
-
 #endif
